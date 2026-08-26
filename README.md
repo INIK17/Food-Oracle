@@ -4,8 +4,6 @@ AI-Powered Food Delivery Time Prediction
 
 ## 🚀 Live Demo
 
-## 🚀 Live Demo
-
 [👉 Try Food Oracle Live](https://food-oracle-mrtxdrvj8m4tgfbutqowzj.streamlit.app)
 
 ## 🧠 Features
