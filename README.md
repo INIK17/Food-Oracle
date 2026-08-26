@@ -1,23 +1,19 @@
 # 🍔 Food Oracle
 
-### AI-Powered Food Delivery Time Prediction
+AI-Powered Food Delivery Time Prediction
 
-Food Oracle is a Machine Learning-powered web application that predicts the estimated delivery time of a food order based on multiple real-world delivery and order-related factors.
+## 🚀 Live Demo
 
-The application provides a simple and interactive interface built with **Streamlit**, allowing users to enter order details and receive an estimated delivery time instantly.
+## 🚀 Live Demo
 
----
+[👉 Try Food Oracle Live](https://food-oracle-mrtxdrvj8m4tgfbutqowzj.streamlit.app)
 
-## 🚀 Features
+## 🧠 Features
 
-- 🤖 Machine Learning-based delivery time prediction
-- ⚡ Fast prediction through an interactive web interface
-- 📊 Considers multiple delivery and order-related factors
-- 🎯 Provides an estimated delivery time in minutes
-- 💻 Simple and user-friendly Streamlit interface
-- 🔮 Interactive prediction dashboard
-
----
+- Machine Learning based delivery time prediction
+- Random Forest prediction model
+- Considers traffic, distance, rider and restaurant details
+- Interactive Streamlit interface
 
 ## 🛠️ Tech Stack
 
